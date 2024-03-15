@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dev-portfolio
 =======
 # README.md
