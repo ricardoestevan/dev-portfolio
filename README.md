@@ -1,7 +1,5 @@
-# dev-portfolio
+# About Me
 portfolio academlo
-
-About Me
 
 👋 Hi there! I'm Ricardo Estevan a passionate web developer with a focus on frontend development, specializing in JavaScript, HTML5, and CSS3. I love bringing designs to life with clean and efficient code, whether it's crafting responsive layouts, implementing interactive features, or optimizing performance for exceptional user experiences.
 
